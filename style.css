@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, #d7621a,#fd8d32);
+    margin: 0;
+     padding: 0;
+    height: 100vh; 
+     display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.container{
+    height: 800px;
+    width: 300px; /* Largura da div */
+    padding: 20px; /* Espaçamento interno */
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo preto com 50% de opacidade */
+    border-radius: 23px; /* Bordas arredondadas */
+    text-align: center; /* Alinha o texto ao centro */
+    color: white; /* Cor do texto */
+}
